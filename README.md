@@ -1,2 +1,0 @@
-# RepoPython
-Programas de python
